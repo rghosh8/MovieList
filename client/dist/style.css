@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    font-style: italic;
+}
+
+.item{
+    color: black;
+    list-style: none;
+    padding: 20px;
+    border: 1px solid gray;
+    margin: 0px;
+}
